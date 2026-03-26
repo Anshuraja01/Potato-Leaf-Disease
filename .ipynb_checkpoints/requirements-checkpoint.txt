@@ -1,0 +1,5 @@
+tensorflow
+keras
+opencv_python_headless
+gdown
+# No imports or code was provided in the selection or entire code file.
