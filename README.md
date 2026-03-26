@@ -26,7 +26,7 @@ It helps farmers identify plant diseases early and take preventive action.
 
 ---
 📷 Output / Screenshots
-![App UI](Home)
+![App UI](image/Home.png)
 
 ## ▶️ How to Run
 
