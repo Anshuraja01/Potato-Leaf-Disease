@@ -25,6 +25,8 @@ It helps farmers identify plant diseases early and take preventive action.
 * Streamlit
 
 ---
+📷 Output / Screenshots
+![App UI](Home.png)
 
 ## ▶️ How to Run
 
